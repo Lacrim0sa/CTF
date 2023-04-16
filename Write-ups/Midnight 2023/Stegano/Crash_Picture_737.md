@@ -31,7 +31,7 @@ Je commence par récrire le début du fichier avec le header PNG "**89 50 4E 47 
 
 ![image](https://user-images.githubusercontent.com/70716302/232288071-ee4e931b-5832-4667-9ff7-2834508df9ae.png)  
 
-Je me dis que KØDΛ n'est pas super-fourbe et que cela devrait suffire. Enfin je l'espère très fort.
+Je me dis que KØDΛ n'est pas super-fourbe et que cela devrait suffire. Enfin je l'espère très fort.  
 Je change l'extension du fichier par ".png", et là, normallement notre image devrait se sentir un peu mieux dans sa petite tête de PNG.  
 
 ![image](https://user-images.githubusercontent.com/70716302/232288156-54663415-a311-49c8-af81-6935af11a031.png)  
