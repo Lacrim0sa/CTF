@@ -54,3 +54,5 @@ Résultat :
 ![image](https://user-images.githubusercontent.com/70716302/232312643-229a6116-f036-4a52-837a-bd772866ef5d.png)  
   
 YES ! Flag : **MCTF{SHAKESPEARECYPHEREXAMINED}**
+
+Auteur de l'article : Anth0
