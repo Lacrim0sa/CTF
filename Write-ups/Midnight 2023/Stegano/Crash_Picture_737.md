@@ -2,7 +2,7 @@
 ## Stega PNG | Les chunks
 
 ### Challenge
-Plusieurs kilometres après la derniere trace du vol, des valises ont été retrouvée. Un ordinateur a pu etre trouvé. Après une analyse, nous remarquons qu'une image à été envoyé quelques minutes avant la perte de la communication. Les analystes pensent que cette image n'est pas valide. Prouvez leur le contraire.  
+Plusieurs kilomètres après la dernière trace du vol, des valises ont été retrouvée. Un ordinateur a pû etre trouvé. Après une analyse, nous remarquons qu'une image a été envoyé quelques minutes avant la perte de la communication. Les analystes pensent que cette image n'est pas valide. Prouvez leur le contraire.  
 
 Fichier : https://cdn.midnightflag.fr/crash.zip  
 
@@ -20,7 +20,7 @@ Je passe bêtement l'extension du ficher au format ".jpg" :
 
 ![image](https://user-images.githubusercontent.com/70716302/232286949-f650a10e-e104-48d8-9b77-f9db1c3b9ef7.png)
 
-Bon... C'étais prévisible.  
+Bon... C'était prévisible.  
 Par curiosité, j'ouvre le fichier avec **Hexeditor** :  
 
 ![image](https://user-images.githubusercontent.com/70716302/232287522-c3796f3b-0d57-43bf-9090-4fc77e32565e.png)
@@ -34,7 +34,7 @@ Je commence par récrire le début du fichier avec le header PNG "**89 50 4E 47 
 ![image](https://user-images.githubusercontent.com/70716302/232288071-ee4e931b-5832-4667-9ff7-2834508df9ae.png)  
 
 Je me dis que KØDΛ n'est pas super-fourbe et que cela devrait suffire. Enfin je l'espère très fort.  
-Je change l'extension du fichier par ".png", et là, normallement notre image devrait se sentir un peu mieux dans sa petite tête de PNG.  
+Je change l'extension du fichier par ".png", et là, normalement notre image devrait se sentir un peu mieux dans sa petite tête de PNG.  
 
 ![image](https://user-images.githubusercontent.com/70716302/232288156-54663415-a311-49c8-af81-6935af11a031.png)  
 
