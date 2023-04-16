@@ -7,6 +7,8 @@ Dans la galerie de l'attaquant, il y a quelques photos mais il y a un détail in
 
 Essayez de trouver ce qu'elle cache.
 
+Fichier : https://cdn.midnightflag.fr/DiffAir.zip  
+
 Auteur : Nemo
 
 Un zip, j'unzip, j'obtiens deux images jpeg.  
