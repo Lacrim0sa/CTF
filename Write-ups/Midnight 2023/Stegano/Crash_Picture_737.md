@@ -6,7 +6,8 @@ Plusieurs kilometres après la derniere trace du vol, des valises ont été retr
 
 Autheur: KØDΛ
 
-Je télécharge le fichier zip, j'extrais et on obtient le fichier "crash".
+Je télécharge le fichier zip, j'extrais, et on obtient le fichier "crash".
+
 Première étape, il faut en apprendre plus sur ce fichier en utilisant la commande **File** :
 
 ![image](https://user-images.githubusercontent.com/70716302/232286608-69ce9ac2-c5cd-4326-80ce-9a4248469a3a.png)
