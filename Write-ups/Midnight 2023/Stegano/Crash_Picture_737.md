@@ -26,7 +26,7 @@ Par curiosité, j'ouvre le fichier avec **Hexeditor** :
 Au premier coup d'oeil on peut observer les chunks "**IHDR**" / "**IDAT**"  
 Lourd le fichier jpeg avec un file format PNG !  
 
-Mon hypothèse est donc qu'il faut revoir les chunks du fichier PNG, ainsi que ça structure.
+Mon hypothèse est donc qu'il faut revoir les chunks du fichier PNG.  
 Je commence par récrire le début du fichier avec le header PNG "**89 50 4E 47 0D 0A 1A 0A**" et je rectifie la longueur du chunks IHDR "**00 00 00 0D**" :  
 
 ![image](https://user-images.githubusercontent.com/70716302/232288071-ee4e931b-5832-4667-9ff7-2834508df9ae.png)  
