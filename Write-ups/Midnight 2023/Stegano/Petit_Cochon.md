@@ -28,7 +28,7 @@ Avant même de bouger un doigt, un **File** sur le fichier .jpg :
 
 ![image](https://user-images.githubusercontent.com/70716302/232309064-89cb2f1b-5c82-4613-bad4-add08c8561a9.png)  
 
-Il s'agit donc d'un PNG et non pas d'un JPG. Je revois l'extension du fichier, et à suivis à cet instant une batterie de tests non-concluant.  
+Il s'agit donc d'un PNG et non pas d'un JPG. Je revois l'extension du fichier, et a suivi à cet instant une batterie de tests non concluants.  
 Pour finir, un détail, en parcourant l'image avec l'outil stegsolve, j'arrive sur le 4em bit du canal blue et on peut observer cette image :  
 
 ![image](https://user-images.githubusercontent.com/70716302/232309265-f28cd4f2-1159-4730-b7e2-bfccb729efc1.png)  
@@ -43,7 +43,7 @@ Une ligne un peu bizarre, je décide donc de me diriger sur le Data Extract de l
 
 Du binaire ? Ouais, c'est du binaire, je n'ai pas écouté à l'école, mais c'est du binaire.
 
-Après un mal de crâne, ce binaire serais du Baconian Cipher...  
+Après un mal de crâne, ce binaire serait du Baconian Cipher...  
 La méthode Baconian, également connue sous le nom de chiffrement de Bacon, est une technique de cryptographie utilisée pour encoder des messages en utilisant un alphabet binaire de caractères.  
 Elle a été développée par l'écrivain et philosophe anglais Francis Bacon au début du XVIIe siècle.
 
