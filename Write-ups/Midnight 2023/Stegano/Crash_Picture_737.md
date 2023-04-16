@@ -56,4 +56,4 @@ Liens :
 https://en.wikipedia.org/wiki/PNG  
 https://entropymine.com/jason/tweakpng/  
 
-Auteur de l'article : Anth0 alias Lacrim0sa
+Auteur de l'article : Anth0
